@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\query\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\query\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\dataloaders\\inatructordataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\dataloaders\\inatructordataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\services\\instructor\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\services\\instructor\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\instractortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\instractortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\services\\courses\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\services\\courses\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\mutation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\mutation\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\mutation\\courseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\mutation\\courseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\dto\\courseandstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\dto\\courseandstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\services\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\services\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\studenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\mutation\\courseinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\mutation\\courseinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\schema\\subscription\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\schema\\subscription\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\graphqldemo.api\\graphqldemo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D3B5EBB-CBDD-40BD-BA19-D00C125A1CA4}|GraphQlDemo.API\\GraphQlDemo.API.csproj|solutionrelative:graphqldemo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InatructorDataLoader.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DataLoaders\\InatructorDataLoader.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\DataLoaders\\InatructorDataLoader.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DataLoaders\\InatructorDataLoader.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\DataLoaders\\InatructorDataLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:49:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Program.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Program.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:14:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Query\\Query.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\Query\\Query.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Query\\Query.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\Query\\Query.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:21:20.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseType.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\CourseType.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\CourseType.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\CourseType.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\CourseType.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:35:47.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\Instructor\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Services\\Instructor\\InstructorRepository.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\Instructor\\InstructorRepository.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Services\\Instructor\\InstructorRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:25:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\Courses\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Services\\Courses\\CourseRepository.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\Courses\\CourseRepository.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Services\\Courses\\CourseRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA7wCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:35:47.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241108163308_updateCreateTables.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Migrations\\20241108163308_updateCreateTables.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:33:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\DTO\\CourseDTO.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\CourseDTO.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\DTO\\CourseDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA0wA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:53:47.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstractorType.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\InstractorType.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\InstractorType.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\InstractorType.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\InstractorType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:36:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241108083702_ReCreateTables.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Migrations\\20241108083702_ReCreateTables.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:37:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseAndStudentDTO.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\CourseAndStudentDTO.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\DTO\\CourseAndStudentDTO.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\CourseAndStudentDTO.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\DTO\\CourseAndStudentDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:24:53.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241108083054_createTables.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Migrations\\20241108083054_createTables.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:30:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseResult.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\CourseResult.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\Mutation\\CourseResult.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\CourseResult.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\Mutation\\CourseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:26:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\Mutation.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\Mutation\\Mutation.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\Mutation.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\Mutation\\Mutation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:09:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Services\\SchoolDbContext.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Services\\SchoolDbContext.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Services\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:55:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:53:36.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241108082210_removeTables.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Migrations\\20241108082210_removeTables.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:22:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241108081809_initTable.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Migrations\\20241108081809_initTable.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:18:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InstructorDTO.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\InstructorDTO.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\DTO\\InstructorDTO.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\DTO\\InstructorDTO.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\DTO\\InstructorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:54:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentType.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\StudentType.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\StudentType.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\StudentType.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\StudentType.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:36:14.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\appsettings.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\appsettings.json",
+              "RelativeToolTip": "GraphQlDemo.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T08:05:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseInputType.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\CourseInputType.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\Mutation\\CourseInputType.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Mutation\\CourseInputType.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\Mutation\\CourseInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:13:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Models\\Subject.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Models\\Subject.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:01:00.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Subscription\\Subscription.cs",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Schema\\Subscription\\Subscription.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Schema\\Subscription\\Subscription.cs",
+              "RelativeToolTip": "GraphQlDemo.API\\Schema\\Subscription\\Subscription.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:18:17.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GraphQlDemo.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\GraphQlDemo.API\\GraphQlDemo.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GraphQlDemo.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBJwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T17:23:06.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
