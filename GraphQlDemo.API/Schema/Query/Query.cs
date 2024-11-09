@@ -7,6 +7,7 @@ using System;
 using System.Collections;
 using HotChocolate.Data;
 using Microsoft.EntityFrameworkCore;
+using GraphQlDemo.API.Schema.Filters;
 namespace GraphQlDemo.API.Schema.Query
 {
     public class Query
@@ -54,7 +55,9 @@ namespace GraphQlDemo.API.Schema.Query
 
         //}
         #endregion
+      
         [UsePaging(IncludeTotalCount =true,DefaultPageSize =10)]
+        [UseFiltering]
         public async Task< IEnumerable<CourseType>> GetCourseTypes()
         {
             IEnumerable<CourseDTO> courseDTO= await _courseRepository.GetAllCourse();
@@ -64,19 +67,14 @@ namespace GraphQlDemo.API.Schema.Query
                 Name = c.Name,
                 InstractorId = c.InstractorId,
                 Subject = c.Subject,
-                //Instractor =new InstractorType
-                //{
-                //    Id = c.InstractorId,
-                //    FirstName=c.Instractor.FirstName,   
-                //    LastName=c.Instractor.LastName,
-                //    Salary=c.Instractor.Salary,
-                 
-                //}
+               
                 
             });
         }
         [UseDbContext(typeof(SchoolDbContext))]
         [UsePaging(IncludeTotalCount = true, DefaultPageSize = 10)]
+        [UseFiltering]
+        //[UseFiltering(typeof(CourseFilterType))]
         public IQueryable<CourseType> GetPaginatedCourseTypes([ScopedService ] SchoolDbContext context)
         {
             

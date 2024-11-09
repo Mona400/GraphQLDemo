@@ -39,9 +39,10 @@ namespace GraphQlDemo.API
                 .AddQueryType<Query>()
                 .AddMutationType<Mutation>()
                 .AddSubscriptionType<Subscription>()
-                 .AddInMemorySubscriptions(); // Add this to fix the issue
-            ;
+                 .AddInMemorySubscriptions() // Add this to fix the issue
+                 .AddFiltering();
 
+;
             var app = builder.Build();
 
             app.UseRouting();
