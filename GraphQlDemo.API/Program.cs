@@ -40,8 +40,11 @@ namespace GraphQlDemo.API
                 .AddMutationType<Mutation>()
                 .AddSubscriptionType<Subscription>()
                  .AddInMemorySubscriptions() // Add this to fix the issue
-                 .AddFiltering();
-
+                 .AddFiltering()
+                 .AddSorting()
+                 .AddProjections()
+                 ;
+            
 ;
             var app = builder.Build();
 

@@ -12,6 +12,7 @@ namespace GraphQlDemo.API.Schema
         public string Name { get; set; }
         public Subject Subject { get; set; }
         //[GraphQLNonNullType]
+        [IsProjected(true)]
         public Guid InstractorId { get; set; }
         [GraphQLNonNullType]
         public async Task< InstractorType> Instractor([Service] InatructorDataLoader inatructorDataLoader)

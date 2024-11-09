@@ -35,7 +35,7 @@ namespace GraphQlDemo.API.Schema.Mutation
             return course;
         }
 
-        public async Task<CourseResult> UpdateCourse(Guid id, CourseInputType courseInputType, [Service] ITopicEventSender topicEventSender)
+        public async Task<CourseResult> UpdateCourse(Guid id, CourseInputType courseInputType, [Service] ITopicEventSender topicEventSender, CancellationToken cancellationToken)
         {
             CourseDTO courseDTO = new CourseDTO()
             {
@@ -44,7 +44,7 @@ namespace GraphQlDemo.API.Schema.Mutation
                 Subject = courseInputType.Subject,
                 InstractorId = courseInputType.InstructorId
             };
-            courseDTO= await _courseRepository.UpdateCourse(courseDTO);
+            courseDTO= await _courseRepository.UpdateCourse(courseDTO,cancellationToken);
             CourseResult course = new CourseResult()
             {
                 Id = courseDTO.Id,
@@ -52,6 +52,7 @@ namespace GraphQlDemo.API.Schema.Mutation
                 Subject = courseDTO.Subject,
                 InstructorId = courseDTO.InstractorId
             };
+            
             string updateCourse = $"{course.Id}_{nameof(Subscription.Subscription.CourseUpdated)}";
             await topicEventSender.SendAsync(updateCourse, course);
             return course;

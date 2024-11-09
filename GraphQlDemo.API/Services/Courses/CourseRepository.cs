@@ -42,12 +42,12 @@ namespace GraphQlDemo.API.Services.Courses
                return course;
             }
         }
-        public async Task<CourseDTO> UpdateCourse(CourseDTO course)
+        public async Task<CourseDTO> UpdateCourse(CourseDTO course,CancellationToken cancellationToken)
         {
             using (SchoolDbContext context = _context.CreateDbContext())
             {
-                context.Courses.Update(course);
-               await context.SaveChangesAsync();
+                 context.Courses.Update(course);
+               var s= context.SaveChangesAsync(cancellationToken);
                 return course;
             }
         }

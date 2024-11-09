@@ -73,8 +73,10 @@ namespace GraphQlDemo.API.Schema.Query
         }
         [UseDbContext(typeof(SchoolDbContext))]
         [UsePaging(IncludeTotalCount = true, DefaultPageSize = 10)]
+        [UseProjection]
         [UseFiltering]
         //[UseFiltering(typeof(CourseFilterType))]
+        [UseSorting]
         public IQueryable<CourseType> GetPaginatedCourseTypes([ScopedService ] SchoolDbContext context)
         {
             
